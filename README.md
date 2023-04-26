@@ -6,7 +6,10 @@
 
 ### Links
 
- - (Links)
+ - (Link Medium)
+ - (Link Kaggle)
+ - (Link Linkedin)
+ - (Link Hackerrank)
 
 ## Main Projects
 
