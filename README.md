@@ -6,10 +6,10 @@
 
 ### Links
 
- - (Link Medium)
- - (Link Kaggle)
- - (Link Linkedin)
- - (Link Hackerrank)
+ - [Medium](https://medium.com/@viniciusnala)
+ - [LinkedIn](https://www.linkedin.com/in/vinicius-nala-4b282a228/) 
+ - [Kaggle](https://www.kaggle.com/viniciusnalasantos)
+ - [HackerRank](https://www.hackerrank.com/vinicius_nala?hr_r=)
 
 ## Main Projects
 
