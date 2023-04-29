@@ -1,6 +1,9 @@
-(Banner)
+<p align="center">
+  <img src="banner_.png" >
+</p>
 
 # Vinicius Nala
+<sub>*Data Scientist*</sub>
  
 (Text)
 
