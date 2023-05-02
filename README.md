@@ -20,12 +20,12 @@ Not only do I offer a unique professional portfolio as a Data Scientist but also
 
 ### Python
 
- - (Link)
+ - [Sending Automatic Email Through Python ](https://github.com/ViniciusNalaSantos/Python_Email_Bot)
 
 ### Machine Learning
- - (Link)
+ - [Machine Learning Model to Predict Survival in Titanic](https://github.com/ViniciusNalaSantos/ML_TitanicAlgoritm)
+ - [Linear Regression: Advanced Modeling Techniques & Pipeline](https://github.com/ViniciusNalaSantos/ML_HousePricesAlgoritm)
+ - [Clustering: Extracting Patterns From Data](https://github.com/ViniciusNalaSantos/ML_ClusterAlgoritm)
 
 ### Tableau
  - (Links)
-
-## English Level
