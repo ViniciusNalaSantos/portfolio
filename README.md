@@ -27,6 +27,9 @@ Not only do I offer a unique professional portfolio as a Data Scientist but also
  - [Linear Regression: Advanced Modeling Techniques & Pipeline](https://github.com/ViniciusNalaSantos/ML_HousePricesAlgoritm)
  - [Clustering: Extracting Patterns From Data](https://github.com/ViniciusNalaSantos/ML_ClusterAlgoritm)
 
+### Power BI
+ - [E-Commerce in Brazil Analysis](https://app.powerbi.com/view?r=eyJrIjoiNTNlMDVjNTQtNTkyNy00YTdkLTk5ZmMtZWUzMzY4MWRmMTJjIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
+ 
 ### Tableau
  - [Latin America Inflation Analysis](https://public.tableau.com/app/profile/vinicius.nala/viz/LatinAmericaInflationAnalysis/Painel2#1)
 
