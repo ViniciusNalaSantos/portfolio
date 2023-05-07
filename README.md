@@ -33,4 +33,4 @@ Not only do I offer a unique professional portfolio as a Data Scientist but also
 <br>
 <br>
 
-**[Other Projects](https://github.com/ViniciusNalaSantos?tab=repositories)**
+**[Other Projects...](https://github.com/ViniciusNalaSantos?tab=repositories)**
