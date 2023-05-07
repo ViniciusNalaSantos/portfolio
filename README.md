@@ -28,4 +28,9 @@ Not only do I offer a unique professional portfolio as a Data Scientist but also
  - [Clustering: Extracting Patterns From Data](https://github.com/ViniciusNalaSantos/ML_ClusterAlgoritm)
 
 ### Tableau
- - (Links)
+ - [Latin America Inflation Analysis](https://public.tableau.com/app/profile/vinicius.nala/viz/LatinAmericaInflationAnalysis/Painel2#1)
+
+<br>
+<br>
+
+**[Other Projects](https://github.com/ViniciusNalaSantos?tab=repositories)**
