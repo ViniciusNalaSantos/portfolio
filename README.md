@@ -5,7 +5,7 @@
 # Vinicius Nala
 <sub>*Data Scientist*</sub>
  
-Pursuing a bachelor's degree in Computational Engineer, I am passionate about Data Science, Artificial Intelligence, Machine Learning Engineering, data analysis, philosophy, statistics, and mathematics applied to business. Currently, I am seeking a job abroad in the data area where I can learn and develop new skills, aggregating value to the company and improving myself at the same time.
+Pursuing a bachelor's degree in Computational Engineering, I am passionate about Data Science, Artificial Intelligence, Machine Learning Engineering, data analysis, philosophy, statistics, and mathematics applied to business. Currently, I am seeking a job abroad in the data area where I can learn and develop new skills, aggregating value to the company and improving myself at the same time.
 
 Not only do I offer a unique professional portfolio as a Data Scientist but also am eager to learn new things, "Eternal learner" is the phrase that best describes me. My research interests lie in the field of Machine Learning (Natural Language Processing, Computer Vision, Neural Networks, Reinforcement Learning, Deep Learning), Pure Mathematics, Philosophy of Mind for Artificial Intelligence, Computer Science, and Metaphysics.
 
