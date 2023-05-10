@@ -11,7 +11,7 @@ Not only do I offer a unique professional portfolio as a Data Scientist but also
 
 ### Links
 
- - [Medium](https://medium.com/@viniciusnala)
+ - [Blog](https://medium.com/@viniciusnala)
  - [LinkedIn](https://www.linkedin.com/in/vinicius-nala-4b282a228/) 
  - [Kaggle](https://www.kaggle.com/viniciusnalasantos)
  - [HackerRank](https://www.hackerrank.com/vinicius_nala?hr_r=)
