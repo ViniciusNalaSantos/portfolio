@@ -28,7 +28,7 @@ Além de oferecer um portfólio único como Cientista de Dados eu estou ansioso 
  - [Linear Regression: Advanced Modeling Techniques & Pipeline](https://github.com/ViniciusNalaSantos/ML_HousePricesAlgoritm)
  - [Clustering: Extracting Patterns From Data](https://github.com/ViniciusNalaSantos/ML_ClusterAlgoritm)
  - [Deep Learning: Perceptron Learning](https://github.com/ViniciusNalaSantos/DL_Perceptron_Learning)
- - [Gradient Descent: Concept & Manual Python Implementation (Project still in progress...)](https://github.com/ViniciusNalaSantos/ML_Gradient_Descent)
+ - [Gradient Descent: Concept & Manual Python Implementation](https://github.com/ViniciusNalaSantos/ML_Gradient_Descent)
 
 ### Power BI
  - [E-Commerce in Brazil Analysis](https://app.powerbi.com/view?r=eyJrIjoiNTNlMDVjNTQtNTkyNy00YTdkLTk5ZmMtZWUzMzY4MWRmMTJjIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
