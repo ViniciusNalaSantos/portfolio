@@ -5,9 +5,9 @@
 # Vinicius Nala
 <sub>*Data Scientist*</sub>
  
-Cursando bacharelado em Engenharia de Computação, sou interessado em Data Science, Artificial Intelligence, Machine Learning Engineering, análise de dados, filosofia, estatística, e matemática aplicada no ambiente empresarial e na indústria. Atualmente, eu estou procurando vaga na área de dados onde eu possa aprender e desenvolver novas habilidades, agregando valor à empresa e me aperfeiçoando ao mesmo tempo.
+CCursando bacharelado em Engenharia de Computação, sou interessado em Data Science, Artificial Intelligence, Machine Learning Engineering, análise de dados, filosofia, estatística, e matemática aplicada no ambiente empresarial e na indústria. Atualmente, eu estou procurando vaga na área da tecnologia onde eu possa aprender e desenvolver novas habilidades, agregando valor à empresa e me aperfeiçoando ao mesmo tempo.
 
-Além de oferecer um portfólio único como Cientista de Dados eu estou ansioso para aprender coisas novas, "Eterno aprendiz" é a frase que melhor me descreve. Meus campos de estudo são as áreas de Machine Learning (Natural Language Processing, Computer Vision, Neural Networks, Reinforcement Learning, Deep Learning), Matemática Pura, Filosofia da Mente para Inteligência Artificial, Ciência da Computação, e Metafísica.
+Além de oferecer um portfólio único eu estou ansioso para aprender coisas novas, "Eterno aprendiz" é a frase que melhor me descreve. Meu campo de estudo são as áreas de Machine Learning (Natural Language Processing, Computer Vision, Neural Networks, Reinforcement Learning, Deep Learning), Matemática Pura, Filosofia da Mente para Inteligência Artificial, Ciência da Computação, e Metafísica.
 
 
 ### Links
