@@ -3,7 +3,7 @@
 </p>
 
 # Vinicius Nala
-<sub>*Data Scientist*</sub>
+<sub>*Projects*</sub>
  
 Cursando bacharelado em Engenharia de Computação, sou interessado em Data Science, Artificial Intelligence, Machine Learning Engineering, análise de dados, filosofia, estatística, e matemática aplicada no ambiente empresarial e na indústria. Atualmente, eu estou procurando vaga na área da tecnologia onde eu possa aprender e desenvolver novas habilidades, agregando valor à empresa e me aperfeiçoando ao mesmo tempo.
 
