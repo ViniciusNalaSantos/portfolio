@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="banner_.png" >
+  <img src="banner_git2.png" >
 </p>
 
 # Vinicius Nala
-<sub>*Projects*</sub>
+<sub>*Portfolio*</sub>
  
-Cursando bacharelado em Engenharia de Computação, sou interessado em Data Science, Artificial Intelligence, Machine Learning Engineering, análise de dados, filosofia, estatística, e matemática aplicada no ambiente empresarial e na indústria. Atualmente, eu estou procurando vaga na área da tecnologia onde eu possa aprender e desenvolver novas habilidades, agregando valor à empresa e me aperfeiçoando ao mesmo tempo.
+Cursando bacharelado em Engenharia da Computação, sou interessado em Ciência de Dados, Engenharia de Software, Engenharia Mecânica, Eletrônica, e Matemática. No momento procuro vaga na área tecnológica, onde  possa aprender e desenvolver novas habilidades, agregando valor à empresa, e me aperfeiçoando ao mesmo tempo.
 
-Além de oferecer um portfólio único eu estou ansioso para aprender coisas novas, "Eterno aprendiz" é a frase que melhor me descreve. Meu campo de estudo são as áreas de Machine Learning (Natural Language Processing, Computer Vision, Neural Networks, Reinforcement Learning, Deep Learning), Matemática Pura, Ciência da Computação, e Metafísica.
+Além de possuir experiência profissional no setor industrial, ofereço um portfólio único. Meus campos de estudo são as áreas de Machine Learning (Natural Language Processing, Computer Vision, Neural Networks, Reinforcement Learning, Deep Learning); Desenvolvimento de Software (Arquitetura, Programação, Banco de Dados); Projeção Mecânica (Desenhar e Projetar Máquinas, Softwares CAD); Eletrônica (Design de Circuitos, PCB, Microcontroladores).
 
 
 ### Links
