@@ -36,6 +36,9 @@ Além de possuir experiência profissional no setor industrial, ofereço um port
 ### Tableau
  - [Latin America Inflation Analysis](https://public.tableau.com/app/profile/vinicius.nala/viz/LatinAmericaInflationAnalysis/Painel2#1)
 
+### Java
+- [Consulta Situação Cadastral Sintegra](https://github.com/ViniciusNalaSantos/Java_Api_Sintegra/tree/main)
+
 <br>
 <br>
 
