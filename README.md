@@ -39,6 +39,9 @@ Além de possuir experiência profissional no setor industrial, ofereço um port
 ### Java
 - [Consulta Situação Cadastral Sintegra](https://github.com/ViniciusNalaSantos/Java_Api_Sintegra/tree/main)
 
+### Delphi
+- [Smart Pointers Implementation](https://github.com/ViniciusNalaSantos/Delphi_Smart_Pointers)
+
 <br>
 <br>
 
